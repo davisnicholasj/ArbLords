@@ -49,7 +49,7 @@ tempPoloPrice = poloBids[poloBids['volume'] > ethPolo].iloc[0,0]
 
 #### Static values for testing
 
-balGdax = 20000
+balGdax = 20000 
 balPolo = 20000
 balTotal = balGdax + balPolo
 

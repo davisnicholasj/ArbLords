@@ -11,8 +11,6 @@ from geminipy import Geminipy #pip install geminipy
 from poloniex import Poloniex #pip3 install https://github.com/s4w3d0ff/python-poloniex/archive/v0.4.6.zip     https://github.com/s4w3d0ff/python-poloniex/blob/master/poloniex/__init__.py
 #from binance.client import Binance #pip install python-binance
 
-
-booty 
 #"
 # Get mid-market price of a given Crypto
 # Get top 50 prices/volume from both sides of the order book
