@@ -12,7 +12,7 @@ from poloniex import Poloniex #pip3 install https://github.com/s4w3d0ff/python-p
 #from binance.client import Binance #pip install python-binance
 
 
-
+booty 
 #"
 # Get mid-market price of a given Crypto
 # Get top 50 prices/volume from both sides of the order book
